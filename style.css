@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#peter {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.name-image {
+    width: 50%;
+    padding-left: 10px;
+}
+
+.name-image img {
+    width: 80%;
+}
+
+.link-class {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
